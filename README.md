@@ -1,2 +1,2 @@
-# react
-第一次用 react 創建水果店
+# React JS中文入門課程，本節內容
+React Fragments
