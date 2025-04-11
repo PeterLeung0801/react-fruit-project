@@ -50,25 +50,18 @@ Ensure you have the following installed:
 # Project Structure
 A high-level overview of the project:
    ```bash
-juicy-shop/
-├── public/                # Static assets (images, favicon, etc.)
-├── src/
-│   ├── assets/            # Images and other static files
-│   ├── components/        # Reusable components (e.g., ProductCard, CartItem)
-│   ├── pages/             # Page components (e.g., ProductList, Cart)
-│   ├── styles/            # Tailwind CSS and other styles
-│   ├── App.jsx            # Main app component
-│   ├── main.jsx           # Entry point
-│   └── index.css          # Global styles
-├── .gitignore             # Git ignore file
-├── package.json           # Project metadata and dependencies
-├── vite.config.js         # Vite configuration
-└── README.md              # Project documentation
-
-# Usage
-Product Page: Browse fruits, view details, and add items to your cart.
-
-Cart Page: Manage your cart by adjusting quantities, removing items, or checking the total price.
-
-Navigation: Use the navigation bar to switch between pages seamlessly.
+   juicy-shop/
+   ├── public/                # Static assets (images, favicon, etc.)
+   ├── src/
+   │   ├── assets/            # Images and other static files
+   │   ├── components/        # Reusable components (e.g., ProductCard, CartItem)
+   │   ├── pages/             # Page components (e.g., ProductList, Cart)
+   │   ├── styles/            # Tailwind CSS and other styles
+   │   ├── App.jsx            # Main app component
+   │   ├── main.jsx           # Entry point
+   │   └── index.css          # Global styles
+   ├── .gitignore             # Git ignore file
+   ├── package.json           # Project metadata and dependencies
+   ├── vite.config.js         # Vite configuration
+   └── README.md              # Project documentation
 
